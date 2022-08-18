@@ -18,7 +18,7 @@ No Installation needed, please use Website URL: https://spmfd.github.io/Challeng
 ## Usage
 
 
-    [![Horiseon Website](https://spmfd.github.io/Challenge/assets/images/Horiseon_website.png "Horiseon Website)]
+    [![Horiseon Website](https://user-images.githubusercontent.com/110492974/185509908-fc35d56e-a879-46df-8fa4-e418fe83be50.png "Horiseon Website)]
 
 ## Credits
 
