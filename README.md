@@ -13,12 +13,12 @@ Doing this refactoring of code for Horiseon website teach me a lot about how to 
 
 ## Installation
 
-No Installation needed, please use Website URL: https://spmfd.github.io/Challenge/Develop/
+No Installation needed, please use Website URL: https://spmfd.github.io/Challenge/
 
 ## Usage
 
 
-    [![Horiseon Website](https://spmfd.github.io/Challenge/Develop/assets/images/Horiseon_website.png "Horiseon Website)]
+    [![Horiseon Website](https://spmfd.github.io/Challenge/assets/images/Horiseon_website.png "Horiseon Website)]
 
 ## Credits
 
